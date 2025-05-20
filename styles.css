@@ -9,6 +9,10 @@ body {
   color: #222;
 }
 
+a {
+  color: rgb(66, 0, 0);
+}
+
 .vertical-nav {
   position: fixed;
   top: 50%;
